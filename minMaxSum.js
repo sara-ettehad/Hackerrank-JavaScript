@@ -12,4 +12,4 @@ function miniMaxSum(arr) {
     }
     console.log(min + " " + max);
 
-}
+    }

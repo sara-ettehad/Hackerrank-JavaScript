@@ -15,4 +15,4 @@ function breakingRecords(scores) {
         }
     }
     return result;
-}
+    }
